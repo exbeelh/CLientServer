@@ -40,5 +40,9 @@ namespace Server.Handlers
         {
             throw new NotImplementedException();
         }
+
+        public string ThisIsPubicHair() {
+            return "Jembut";
+        }
     }
 }
